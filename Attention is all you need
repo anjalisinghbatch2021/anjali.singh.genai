@@ -1,0 +1,18 @@
+Anjali Singh 
+PRN 21070521012
+1. This work focuses on the Transformer model which is a sequence transduction model that employs the self-attention technique.
+2. It explains the model architecture focusing on the encoder-decoder framework and the role of self-attention for both input and output.
+3. The text is talking about the model’s use in activities such as reading comprehension, summarization, and language modelling among others and how it is better than the other models.
+
+Transformer Model Overview:
+a. Proposes a new network architecture based on attention mechanism only and the introduction outperforms the existing models in the machine translation tasks.
+b. Yields better performance in quality, much faster training speed, and improved parallelism as compared to the other techniques.
+
+Attention Mechanisms:
+a. Relies on Scaled Dot-Product Attention for computing the weights on the values.
+b. Uses Multi-Head Attention to carry out the processing of information in parallel.
+c. Produce an output through mapping of queries, keys, values and is responsible for attention.
+
+Model Enhancements:
+a. Integrates residual connections and layer normalization to boost the accuracy.
+b. Uses dropout and label smoothing to improve the accuracy and BLEU score when training.
